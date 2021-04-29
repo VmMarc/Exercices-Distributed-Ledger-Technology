@@ -17,7 +17,7 @@ Le noeud va d'abord consulter sa base de donnée de paires connues. Mais pour un
 Les noeud sont reliés entre eux par adresse IP et par un système de confiance mutuelle. Le nouveau noeud est vérifier par les anciens et ainsi de suite.
 
 ## Question 5 : 
-La structure de la *BlockChain* resemble beaucoup a une Liste de donées liées. Qui est donc une liste ou collection de données linéaire ou chaque noeud pointe vers le suivant.
+La structure de la *BlockChain* resemble beaucoup a une *Liste chainée*. Qui est donc une liste ou collection de données linéaire ou chaque noeud pointe vers le suivant.
 
 ## Question 6 :
 Pour modifié une transaction faite il y a six mois il faudrait modifié le Header du noeud en question mais aussi le Header de chaque noeud qui est lié a celui-ci. Ce qui est impossible car la chaine continue de s'implémentée, ce qui s'apparente à la problèmatique de *La ruine du joueur*.
